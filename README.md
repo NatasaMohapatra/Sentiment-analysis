@@ -68,4 +68,5 @@ Predictions may be inaccurate for sarcasm, mixed opinions, and context-dependent
 
 ## Author
 
+Natasa Mohapatra
 Payal Kataruka
