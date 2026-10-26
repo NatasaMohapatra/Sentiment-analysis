@@ -7,7 +7,7 @@ This project analyzes text reviews and classifies their sentiment as Positive, N
 The application is built with Python and Streamlit. It supports individual review analysis and bulk analysis through CSV uploads.
 # 💗 Sentiment Analysis Web App
 
-**🌐 Live Demo:** [Open Sentiment Analysis App](https://payalkataruka-cloud-sentiment-analysis-web-app-app-ui-y5xjy4.streamlit.app/)
+**🌐 Live Demo:** [Open Sentiment Analysis App](https://natasa-sentiment-app.streamlit.app/)
 
 An AI-powered web application that analyzes text reviews and classifies their sentiment as positive, neutral, or negative using Python, Streamlit, and a pretrained NLP model.
 
